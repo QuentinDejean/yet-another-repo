@@ -1,7 +1,7 @@
 {
   "name": "parcel-service-component",
   "description": "Parcel Service Component",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-bump": "0.0.16"
