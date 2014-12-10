@@ -3,6 +3,6 @@
 angular.module('ngFrench', [])
     .service('ParcelService', function () {
         this.saySomethingFrench = function () {
-            console.log('Cannot believe it awesome?!!!! Et re-voila! Oops! lol!');
+            console.log('believe really awesome?!!!! Et re-voila! Oops! lol!');
         };
     });

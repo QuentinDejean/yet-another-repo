@@ -1,5 +1,5 @@
 {
-    "name": "ng-parcel-service",
+    "name": "parcel-service",
     "version": "0.0.2",
     "main": "./ngParcelService.js",
     "ignore": [
