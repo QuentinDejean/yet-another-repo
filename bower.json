@@ -1,7 +1,7 @@
 {
-    "name": "parcel-service",
+    "name": "order-service",
     "version": "0.0.12",
-    "main": "./ngParcelService.js",
+    "main": "./ngOrderService.js",
     "ignore": [
         ".idea",
         ".jshintignore",
