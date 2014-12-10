@@ -2,7 +2,7 @@ module.exports = function(grunt) {
     grunt.initConfig({
         bump: {
             scripts: {
-                files: ["ngParcelService.js"],
+                files: ["package,json", "bower.json"],
                 updateConfigs: ["pkg"],
                 commitFiles: ["-a"],
                 push: false
